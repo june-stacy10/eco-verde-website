@@ -1,4 +1,7 @@
 # eco-verde-website
+this is my first git repository
+<br>
+author-june stacy
 <!DOCTYPE html>
 <html lang="en">
 <head>
